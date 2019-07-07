@@ -1,4 +1,6 @@
-package javaapplication2;
+//Name: M. Bakhtiar Zuberi
+//Roll No: SP18-BCS-086
+
 //imports for file writing (and reading) & pane
 import java.io.BufferedWriter;
 import java.io.File;
